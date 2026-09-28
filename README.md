@@ -1,2 +1,2 @@
-# GTX03-Custom-Watchfaces
+# GTX03 Custom Watchfaces
 Custom watch faces made for the GTX03 smartwatch.
