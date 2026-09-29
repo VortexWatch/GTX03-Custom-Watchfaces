@@ -9,7 +9,7 @@ All distributed assets here are cleanly structured to prevent watch face install
 Unlike generic or fragmented legacy community tools that cause rendering artifacts, pixel clipping, or system boot loops, every project file in this collection is verified against the strict layout constraints:
 
 * **GTX03 (Profile 537):** Round Display Canvas Matrix | 466x466 Native Grid Boundary | Center Axis Anchor (233, 233)
-* **IDW13 (Profile 487):** Rectangular Baseline Screen Matrix | 240x284 Native Grid Boundary
+* **IDW13 (Profile 497):** Rectangular Baseline Screen Matrix | 240x284 Native Grid Boundary
 
 ## Repository Directory Tree
 
